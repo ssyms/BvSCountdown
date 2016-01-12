@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "BatmanvSupermanCountdown",
+  "version": "1.0",
+
+  "description": "Countdown clock until the release of Batman v. Superman: Dawn of Justice on March 25, 2016.",
+  "icons": {"16": "batmanicon16.png",
+           "48": "batmanicon48.png",
+          "128": "batmanicon128.png"},
+
+  "chrome_url_overrides" : {
+    "newtab": "BatmanvSupermanCountdown.html"
+  }
+
+}
