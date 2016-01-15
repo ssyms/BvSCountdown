@@ -12,4 +12,8 @@
     "newtab": "BatmanvSupermanCountdown.html"
   }
 
+  "permissions" : [
+          "topSites",
+        ],
+
 }

@@ -1,6 +1,7 @@
 
- var deadline = '2016-03-26';
+ var deadline = 'March 25, 2016 01:00:00';
  function getTimeRemaining(endtime){
+   
   var t = Date.parse(endtime) - Date.parse(new Date());
   var seconds = Math.floor( (t/1000) % 60 );
   var minutes = Math.floor( (t/1000/60) % 60 );

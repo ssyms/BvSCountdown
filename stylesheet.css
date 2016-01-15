@@ -28,3 +28,12 @@
 body {
 	overflow: hidden;
 }
+
+.col-md-3 {
+	font-family: "Arimo";
+    font-size: 2rem;
+    text-align:center;
+}
+.numbers {
+	font-size: 6rem;
+}
